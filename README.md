@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Piyus Kumar Rout > @payo101
-- 👀 I reside in Noida, India and currently pursuing Electronics and Communication Engineering :man_student:.  My areas of interest are Game Development, Computer Vision and NLP.
-- 🌱 As of now, I'm focusing on Medical and Daily Life usage of Neural Networks.  P.S. Trying to get a research internship too :pray:
-- :handshake: I'm looking for contributing to a game development project and work for an End-to-end Deep Learning Project.
+- 👀 I reside in Noida, India and currently an SDE-1 :man_student:.  My areas of interest are Game Development, Computer Vision and NLP.
+- 🌱 As of now, I'm focusing on Medical and Daily Life usage of Neural Networks.
+- <!---- P.S. Trying to get a research internship too :pray: --->
+- :handshake: I'm looking for contributing to open-source projects in game dev or ML/DL Projects.
 
 # Code-Base
 ### Languages
