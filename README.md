@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piyus Kumar Rout > @payo101
-- 👀 I reside in Noida, India and currently an SDE-1 :man_student:.  My areas of interest are Game Development, Computer Vision and NLP.
-- 🌱 As of now, I'm focusing on Medical and Daily Life usage of Neural Networks.
+- 👀 I reside in Noida, India and currently an SDE-1 and my works lies currently in Data Engineering :man_student:.  My areas of interest are Game Development, Computer Vision and NLP.
+- 🌱 As of now, My personal focus is on Medical and Daily Life usage of Neural Networks.
 - <!---- P.S. Trying to get a research internship too :pray: --->
 - :handshake: I'm looking for contributing to open-source projects in game dev or ML/DL Projects.
 
@@ -8,7 +8,7 @@
 ### Languages
 ![C++](https://img.shields.io/badge/-C%2B%2B-darkblue?style=for-the-badge&logo=C%2B%2B) ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C) ![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=C-sharp) ![Python](https://img.shields.io/badge/-Python-darkgreen?style=for-the-badge&logo=Python)
 
-### Deep Learning
+### Libraries
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-darkred?style=for-the-badge&logo=TensorFlow) ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras) ![PyTorch](https://img.shields.io/badge/Pytorch-maroon?style=for-the-badge&logo=PyTorch) ![OpenCV](https://img.shields.io/badge/opencv-purple?style=for-the-badge&logo=OpenCV)
 
 # Tools
